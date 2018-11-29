@@ -21,9 +21,9 @@ Details:
 * Screenshot a fake login that includes your name
 * Sample screenshots:
 
-![Fake Website](https://github.com/rainwyr/ist590/fakebook.png)
+![Fake Website](https://github.com/rainwyr/ist590/blob/master/fakebook.png)
 
-![Harvest](https://github.com/rainwyr/ist590/credential_harvest.png)
+![Harvest](https://github.com/rainwyr/ist590/blob/master/credential_harvest.png)
 
 
 ### Challenge 3 - Shodan Webcams
@@ -32,7 +32,7 @@ Follow **Assignment** Part 1. Find a webcam that is in use and screenshot it.
 
 * Sample:
 
-![Webcam](https://github.com/rainwyr/ist590/webcam.png)
+![Webcam](https://github.com/rainwyr/ist590/blob/master/webcam.png)
 
 ### Challenge 4 - Darknet
 
@@ -40,5 +40,5 @@ Refer to **Assignment** Part 2. Screenshot two websites you opened. Remember: 1)
 
 * Sample: 
 
-![HiddenWiki](https://github.com/rainwyr/ist590/hidden_wiki.png)
+![HiddenWiki](https://github.com/rainwyr/ist590/blob/master/hidden_wiki.png)
 
