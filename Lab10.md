@@ -1,6 +1,6 @@
 # Lab 10
 
-Make a folder in your GitHub repo for Lab 10 submission and create a markdown file called Lab10.md. Rain has all your GitHub links, as long as you clearly label the folder, she can find your submission. 
+Make a folder in your GitHub repo for Lab 10 submission and create a markdown file called **Lab10.md**. Rain has all your GitHub links, as long as you clearly label the folder, she can find your submission. 
 
 * All four challenges are based on Week 10 Lab/Assignments on CodePath course portal. 
 * The lab is due at 4:30 PM on Friday 11/30. Late submission will get half of the points earned.
@@ -8,7 +8,7 @@ Make a folder in your GitHub repo for Lab 10 submission and create a markdown fi
 
 ## Challenge 1 - Phishing Emails
 
-Follow **Lab** Milestone 2. Send a phishing email to my throwaway email: anupdateadaykeepsthehackeraway@gmail.com using one of available templates.
+Follow **Lab** Milestone 2. Send a phishing email to my throwaway email: anupdateadaykeepsthehackeraway@gmail.com using one of the available templates.
 
 Details:
 
