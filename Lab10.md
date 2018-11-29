@@ -8,7 +8,7 @@ Make a folder in your GitHub repo for Lab 10 submission and create a markdown fi
 
 ## Challenge 1 - Phishing Emails
 
-Follow **Lab** Milestone 2. Send a phishing email to my throwaway email: anupdateadaykeepsthehackeraway@gmail.com using one of the available templates.
+Follow **Lab** Milestone 2. Send a phishing email to Rain's throwaway email: anupdateadaykeepsthehackeraway@gmail.com using one of the available templates.
 
 Details:
 
@@ -17,7 +17,7 @@ Details:
 
 ## Challenge 2 - Credential Harvesting
 
-Follow **Lab** Milestone 3. Submit creenshot the fake website and your harvested credentials.
+Follow **Lab** Milestone 3. Screenshot the fake website and your harvested credentials. 
 
 Details:
 
@@ -40,7 +40,7 @@ Follow **Assignment** Part 1. Find a webcam that is in use and screenshot it.
 
 ## Challenge 4 - Darknet
 
-Refer to **Assignment** Part 2. Screenshot two websites you opened. Remember: 1) You DO NOT need to use Tails, because it takes 2 hours in stall... Just download Tor Browser, and 2) Don't click on any links in Tor Browser.
+Refer to **Assignment** Part 2. Screenshot two websites you opened. Remember: 1) You DO NOT need to use Tails, because it takes 2 hours in stall... Just download Tor Browser, 2) Only go to the websites Zach provided, and 3) Don't click on any links in Tor Browser.
 
 * Sample: 
 
