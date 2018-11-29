@@ -32,7 +32,7 @@ Details:
 
 ## Challenge 3 - Shodan Webcams
 
-Follow **Assignment** Part 1. Find a webcam that is in use and screenshot it.
+Follow **Assignment** Part 1. Find a webcam that is in use. Explain your filter and screenshot the webcam image.
 
 * Sample:
 
