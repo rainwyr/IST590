@@ -16,7 +16,7 @@ Read the story at https://medium.com/@N/how-i-lost-my-50-000-twitter-username-24
 
 ## Challenge 3 - Phishing Websites
 
-Follow **Lab** Milestone 3. Screenshot the fake website and your harvested credentials. It's based on the SET tool in Milestone 1 & 2. Install SET tool in Kali Linux:
+Follow **Lab** Milestone 3. Screenshot the fake website and your harvested credentials. It's based on the VM configuration (change NAT to Bridge) in Milestone 0 and SET tool in Milestone 1 & 2. Install SET tool in Kali Linux:
 ```
 $ apt-get update && apt-get install -y set
 ```
