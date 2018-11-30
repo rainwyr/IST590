@@ -42,7 +42,7 @@ Details:
 
 Follow **Assignment** Part 1. For this challenge, you can choose one of the two options:
 
-1) Research an anecdote of how someone found information on Shodan that would otherwise be hard to find on Google, OR*
+1) Research an anecdote of how someone found *interesting* information on Shodan that would otherwise be hard to find on Google, OR
 
 2) Find a webcam on Shodan that is in use. Explain your filter and screenshot the webcam image.
 
