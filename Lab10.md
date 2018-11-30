@@ -6,20 +6,24 @@ Make a folder in your GitHub repo for Lab 10 submission and create a markdown fi
 * The lab is due at 4:30 PM on Friday 11/30. Late submission will get half of the points earned.
 * This lab is worth 5 points.
 
-## Challenge 1 - A SE Anecdote
+## Challenge 1 - Steganography
+
+Watch Nick Trezza's video on Steganography (https://csusb.zoom.us/recording/play/YDf6nc-y_iDy-wqliilp6FRT4orPPOmbw7XrRh86hFUhPcBPJhYLMHN87CkebzZH?startTime=1543446148000) and explain the Kenny.png example. 
+
+## Challenge 2 - A SE Anecdote
 
 Read the story at https://medium.com/@N/how-i-lost-my-50-000-twitter-username-24eb09e026dd. Write a brief summary of what happened and why it happened.
 
-## Challenge 2 - Phishing Emails
+## Challenge 3 - Phishing Emails
 
 Follow **Lab** Milestone 2. Send a phishing email to Rain's throwaway email: anupdateadaykeepsthehackeraway@gmail.com using one of the available templates.
 
 Details:
 
-* You should probably read Milestone 1 to get set up for Milestone 2
+* You should probably read Milestone 0 and 1 to get set up for Milestone 2
 * Include your name in the subject line so I can give you points without opening your email (who knows what you are sending me)
 
-## Challenge 3 - Credential Harvesting
+## Challenge 4 - Phishing Websites
 
 Follow **Lab** Milestone 3. Screenshot the fake website and your harvested credentials. 
 
@@ -34,15 +38,19 @@ Details:
 ![Harvest](https://github.com/rainwyr/ist590/blob/master/credential_harvest.png)
 
 
-## Challenge 4 - Shodan Webcams
+## Challenge 5 - IoT Webcams (Shodan)
 
-Follow **Assignment** Part 1. Find a webcam that is in use. Explain your filter and screenshot the webcam image.
+Follow **Assignment** Part 1. For this challenge, you can choose one of the two options:
+
+1) Research an anecdote of how someone found information on Shodan that would otherwise be hard to find on Google, OR*
+
+2) Find a webcam on Shodan that is in use. Explain your filter and screenshot the webcam image.
 
 * Sample:
 
 ![Webcam](https://github.com/rainwyr/ist590/blob/master/webcam.png)
 
-## Challenge 5 - Darknet
+## Challenge 6* - Darknet
 
 Refer to **Assignment** Part 2. Screenshot two websites you opened. Remember: 1) You DO NOT need to use Tails, because it takes 2 hours in stall... Just download Tor Browser, 2) Only go to the websites Zach provided, and 3) Don't click on any links in Tor Browser.
 
