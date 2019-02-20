@@ -15,3 +15,4 @@ result = cur.fetchall()
 cur.execute('DROP TABLE friends;')
 cur.close()
 print result
+print "I made changes here!"
