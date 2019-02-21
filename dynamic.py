@@ -16,3 +16,4 @@ cur.execute('DROP TABLE friends;')
 cur.close()
 print "Friends & Hobbies"
 print result
+print "I made changes here!"
